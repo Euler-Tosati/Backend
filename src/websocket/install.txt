@@ -1,0 +1,6 @@
+yarn add socket.io, permite que a conexão permanece 
+aberta durante a comunicação com id próprio. 
+
+com o protocolo do websoft pode-se enviar mensagens simultaneas
+e ter comunicação em tempo real
+ 
